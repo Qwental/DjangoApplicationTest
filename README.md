@@ -15,4 +15,4 @@
 4. Заполни БД тестовыми данными -
 * ```python manage.py loaddata .\products\fixtures\goods.json```
 * ```python manage.py loaddata .\products\fixtures\categories.json```
-7. <u>Запуск приложения производиться всегда этой командой</u>  ```python manage.py runserver``` и перейди на http://127.0.0.1:8000/
+5. <u>Запуск приложения производиться всегда этой командой</u>  ```python manage.py runserver``` и перейди на http://127.0.0.1:8000/
